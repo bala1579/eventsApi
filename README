@@ -1,0 +1,22 @@
+Welcome
+
+Run this project you have to install these packeges
+
+express , cors , mongodb , dotenv , body-parser , uuid , and
+
+you can install nodemon for automatic restart the server if any changes
+
+All Scripts are
+
+To run the project with nodemon you can type --- npm run dev
+run without nodemon with simple node ---------- npm run start
+
+------All API Details are here you can test these api on thunder client , postman also
+
+-get single data--- GET --- http://localhost:5050/api/v3/app/events/:id paste here event id in the place of :\_id
+--get all data --- GET ----- http://localhost:5050/api/v3/app/
+-- add New data ---- POST ------ http://localhost:5050/api/v3/app/events
+--update data---- PATCH ----- http://localhost:5050/api/v3/app/events/:id --- paste here event id in the place of :\_id
+--Delete data-- DELETE -- http://localhost:5050/api/v3/app/events/:id --- paste here event id in the place of :\_id
+
+-----------Thanx to give me this oppurtunity-----
